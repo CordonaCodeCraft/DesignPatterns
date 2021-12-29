@@ -1,0 +1,11 @@
+
+}
+java:S1319
+"bThe type of "in" should be an interface such as "List" rather than the implementation "ArrayList".(Ôñ¹¼ÿÿÿÿÿ
+~
+java:S1319"cThe type of "out" should be an interface such as "List" rather than the implementation "ArrayList".(ýÞä üÿÿÿÿ
+i
+java:S1104
+"NMake in a static final constant or non-public and provide accessors if needed.(Ôñ¹¼ÿÿÿÿÿ
+j
+java:S1104"OMake out a static final constant or non-public and provide accessors if needed.(ýÞä üÿÿÿÿ

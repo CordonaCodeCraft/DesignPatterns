@@ -1,6 +1,6 @@
 package specification_pattern;
 
-import static specification_pattern.Product.*;
+import static specification_pattern.Product.Color;
 
 public class ColorSpecification implements Specification<Product> {
 	private final Color color;

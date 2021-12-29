@@ -1,9 +1,5 @@
 package specification_pattern;
 
-import specification_pattern.FilterService;
-import specification_pattern.Product;
-import specification_pattern.Specification;
-
 import java.util.List;
 import java.util.stream.Stream;
 

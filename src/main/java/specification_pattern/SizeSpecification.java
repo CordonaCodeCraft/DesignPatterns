@@ -1,6 +1,6 @@
 package specification_pattern;
 
-import static specification_pattern.Product.*;
+import static specification_pattern.Product.Size;
 
 public class SizeSpecification implements Specification<Product> {
 	private final Size size;

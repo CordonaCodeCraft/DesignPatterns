@@ -17,7 +17,7 @@ public class HtmlElement {
 		this.name = name;
 		this.text = text;
 	}
-	
+
 	public String toStringImpl(final int indent) {
 		final StringBuilder stringBuilder = new StringBuilder();
 		final String i = String.join("", Collections.nCopies(indent * indentSize, " "));
